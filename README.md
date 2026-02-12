@@ -1,16 +1,34 @@
-## Hi there 👋
+# Diego Velez
 
-<!--
-**DiegoVelezMira/DiegoVelezMira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Financial Systems | Automation | Strategic Finance
 
-Here are some ideas to get you started:
+Continuous learner of Python and AI-driven systems.  
+Focused on integrating technology, data, and automation to enhance business efficiency.  
+Building practical financial solutions with a strategic approach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Current Focus
+
+- AI-driven financial modeling
+- Algorithmic trading systems
+- Business automation for SMEs
+- Data-driven strategic decision making
+
+---
+
+## 🛠 Tech & Tools
+
+- Python
+- Pandas
+- Financial Modeling
+- Algorithmic Trading
+- Data Analysis
+- AI Workflows
+- Process Automation
+
+---
+
+## 🎯 Vision
+
+Transforming financial and business systems through applied AI and intelligent automation.
