@@ -8,24 +8,19 @@ Building practical financial solutions with a strategic approach.
 
 ---
 
-## 🔍 Current Focus
+## 🔎 Current Focus
 
 - AI-driven financial modeling
 - Algorithmic trading systems
 - Business automation for SMEs
-- Data-driven strategic decision making
+- Data-driven strategic decision frameworks
 
 ---
 
-## 🛠 Tech & Tools
+## 🛠 Tech Stack
 
-- Python
-- Pandas
-- Financial Modeling
-- Algorithmic Trading
-- Data Analysis
-- AI Workflows
-- Process Automation
+Python • Pandas • Financial Modeling • Algorithmic Trading  
+Data Analysis • Automation • AI Workflows
 
 ---
 
